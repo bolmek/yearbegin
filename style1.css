@@ -1,0 +1,23 @@
+body {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+
+canvas{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    z-index: -1;
+}
+H1{
+    color:rgb(236, 10, 134);
+}
+H3{
+    color: rgb(215, 101, 223);
+}
+h2{
+    color: rgb(213, 163, 249);
+}
